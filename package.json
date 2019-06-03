@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-brightness@0.2.0",
+      "/Users/daviozolin/appnetpark"
+    ]
+  ],
+  "_from": "cordova-plugin-brightness@0.2.0",
+  "_id": "cordova-plugin-brightness@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ujW4v58jArPxPf8CjEppl9hM2/9jep1+nflzAOGoT4yc5UIuLja6j6+wxK2fv6+UWqVEWEKB3JkfnijVUl6HjQ==",
+  "_location": "/cordova-plugin-brightness",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-brightness@0.2.0",
+    "name": "cordova-plugin-brightness",
+    "escapedName": "cordova-plugin-brightness",
+    "rawSpec": "0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "0.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-brightness/-/cordova-plugin-brightness-0.2.0.tgz",
+  "_spec": "0.2.0",
+  "_where": "/Users/daviozolin/appnetpark",
+  "author": {
+    "name": "Evgeniy Lukovsky"
+  },
+  "bugs": {
+    "url": "https://github.com/mgcrea/cordova-plugin-brightness/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-brightness",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "description": "Cordova Brightness Control Plugin",
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=3.6.0"
+    }
+  ],
+  "homepage": "https://github.com/mgcrea/cordova-plugin-brightness#readme",
+  "keywords": [
+    "cordova",
+    "unity",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-brightness",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgcrea/cordova-plugin-brightness.git"
+  },
+  "version": "0.2.0"
+}
